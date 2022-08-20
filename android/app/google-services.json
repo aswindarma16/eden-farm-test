@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654841354092",
+    "project_id": "eden-farm-test",
+    "storage_bucket": "eden-farm-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654841354092:android:4571b2ab8f00def90f4549",
+        "android_client_info": {
+          "package_name": "com.edenfarm.fittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654841354092-ibg69fkbhtvq9acl06h91sdb6jbeajh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQofVt1MQhCUjafU__Knjaqqfndopm8pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654841354092-ibg69fkbhtvq9acl06h91sdb6jbeajh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
